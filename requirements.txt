@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+psycopg2
+alembic
+passlib
+bcrypt==4.1.3
